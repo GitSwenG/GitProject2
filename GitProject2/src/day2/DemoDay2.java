@@ -12,4 +12,10 @@ public class DemoDay2 {
 		System.out.println(a + b);
 		
 	}
+	
+	public static void add(double a, double b) {
+		System.out.println(a + b);
+		
+	}
+	
 }
